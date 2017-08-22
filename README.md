@@ -8,4 +8,8 @@
   3    nth-child(odd/even).
   4    nth-child(an+b)  w3cscool上再看看.
   5    text-align: linehight:.
-  6    流式布局 ：百分比 和veiwport.
+  6    流式布局 ：百分比 和veiwport
+  一些内容
+   你好啊
+   我很好
+   再见
