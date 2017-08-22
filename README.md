@@ -9,7 +9,7 @@
   4    nth-child(an+b)  w3cscool上再看看.
   5    text-align: linehight:.
   6    流式布局 ：百分比 和veiwport
-  一些内容
-   你好啊
-   我很好
+  一些内容/n
+   你好啊/n
+   我很好/n
    再见
