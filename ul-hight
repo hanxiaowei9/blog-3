@@ -1,0 +1,19 @@
+## li浮动时ul高度为0，解决ul自适应高度的几种方法
+1. 给ul元素设置高度height
+最直接的办法是给ul元素设置一个高度，即ul标签添加height属性，代码如下:
+ul {
+    list-style-type: none;
+    height: 30px; /*添加高度属性*/
+}
+次方法有个缺点：就是元素的高度不能自适应内容。
+2. 添加一个空的div
+添加一个空的div，这个div和浮动元素同一级别，且位于浮动元素的最后。这个方法必须要为这个div添加一个clear:both属性，代码如下：
+<ul>
+<li>标签1</li>
+<li>标签2</li>
+<li>标签3</li>
+<div style="clear:both;"></div> <!--新添加的空div，它和浮动元素同一级别，且位于最后-->
+
+## 学了一些markdown语法的知识包括 引用  图片  和  链接 字体的加粗**  和斜体*
+## background：transparent url(链接地址)
+## 每日英语
